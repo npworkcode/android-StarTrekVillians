@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="status_bar_color">#000000</color>
+    <color name="appbar_color">#212121</color>
+    <color name="background_color">#303030</color>
+    <color name="dialog_color">#424242</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="button_start_color">#000000</color>
+    <color name="button_end_color">#434343</color>
+    <color name="button_selected_start_color">#e52d27</color>
+    <color name="button_selected_end_color">#b31217</color>
+    <color name="button_selected_border_color">#d31027</color>
+    <color name="button_center_color">#888888</color>
+</resources>

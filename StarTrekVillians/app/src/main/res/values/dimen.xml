@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="team_name_size">20sp</dimen>
+    <dimen name="score_size">30sp</dimen>
+    <dimen name="team_name_padding">10dp</dimen>
+    <dimen name="score_top_padding">8dp</dimen>
+    <dimen name="button_text_size">12sp</dimen>
+    <dimen name="button_height">30dp</dimen>
+    <dimen name="button_width">100dp</dimen>
+    <dimen name="score_bottom_padding">10dp</dimen>
+    <dimen name="score_button_side_padding">10dp</dimen>
+    <dimen name="timer_side_padding">10dp</dimen>
+    <dimen name="score_button_bottom_padding">10dp</dimen>
+    <dimen name="reset_button_bottom_padding">10dp</dimen>
+    <dimen name="box_width">1dp</dimen>
+    <dimen name="text_drawable_padding">5dp</dimen>
+    <dimen name="image_height">120dp</dimen>
+    <dimen name="image_width">170dp</dimen>
+    <dimen name="image_button_height">80dp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="button_corner_radius">30dp</dimen>
+    <dimen name="button_radius">60dp</dimen>
+    <dimen name="button_stroke_width">2dp</dimen>
+    <dimen name="countdown_timer_size">14sp</dimen>
+    <dimen name="gradient_radius_size">90</dimen>
+    <dimen name="layout_weight_one">1</dimen>
+
+
+</resources>

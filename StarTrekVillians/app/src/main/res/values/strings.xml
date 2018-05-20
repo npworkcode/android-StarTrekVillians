@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Star Trek Villains</string>
+    <string name="klingon_title">Klingon</string>
+    <string name="romulan_title">Romulan</string>
+    <string name="button_1">+ 10 Points Phasers</string>
+    <string name="button_2">+ 20 Points Photons</string>
+    <string name="button_3">+ 50 Points Genesis</string>
+    <string name="button_4">Shields Up</string>
+    <string name="reset_button">reset</string>
+    <string name="layout_weight_one">1</string>
+    <string name="score_zero">0</string>
+    <string name="timer_zero">10 Seconds</string>
+    <string name="button_gradient_type">linear</string>
+</resources>
